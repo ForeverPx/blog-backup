@@ -3,7 +3,7 @@ date: 2016-02-03 10:47:09
 tags: [MobileWeb]
 categories: frontend
 ---
-
+  
 在移动web中，经常会使用window.location.href去跳转页面，这个方法在绝大多数浏览器中都不会
 存在问题，但是在安卓手机的微信自带浏览器中，会出现一个奇怪的bug。
 
